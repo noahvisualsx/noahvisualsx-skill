@@ -17,3 +17,7 @@ noahvisuals（[@noahvisualsx](https://x.com/noahvisualsx)）的 AIGC 创作 skil
 | [omni](skills/omni/SKILL.md) | Google Gemini Omni 视频提示词：参考图锁角色、分秒节拍、对话式修改 |
 | [x-carousel-split](skills/x-carousel-split/SKILL.md) | X 横滑拼图（三联屏）：竖切长条、白缝预览、构图和比例建议 |
 | [selfie-pushin-music-video](SKILL.md) | 手持前置自拍、怼脸跳切、踩点音乐的竖屏短视频（仓库根目录） |
+
+## 许可证
+
+[MIT](LICENSE)：可以自由使用、修改和分发，保留原作者署名即可。
