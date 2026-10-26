@@ -16,7 +16,11 @@ noahvisuals（[@noahvisualsx](https://x.com/noahvisualsx)）的 AIGC 创作 skil
 | [video-replicate-prompts](skills/video-replicate-prompts/SKILL.md) | 短视频拆解复刻：抽帧分析，输出首帧图、图生视频时间线和负面词 |
 | [omni](skills/omni/SKILL.md) | Google Gemini Omni 视频提示词：参考图锁角色、分秒节拍、对话式修改 |
 | [x-carousel-split](skills/x-carousel-split/SKILL.md) | X 横滑拼图（三联屏）：竖切长条、白缝预览、构图和比例建议 |
-| [selfie-pushin-music-video](SKILL.md) | 手持前置自拍、怼脸跳切、踩点音乐的竖屏短视频（仓库根目录） |
+| [selfie-pushin-music-video](skills/selfie-pushin-music-video/SKILL.md) | 手持前置自拍、怼脸跳切、踩点音乐的竖屏短视频 |
+
+## 其他 skill
+
+这个仓库只放生图、视频类 skill。UI 设计、写作、课程作业、运维这类 skill 在 [claude-skills-public](https://github.com/noahvisualsx/claude-skills-public)。
 
 ## 许可证
 
