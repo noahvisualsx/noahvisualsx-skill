@@ -16,6 +16,10 @@ noahvisuals（[@noahvisualsx](https://x.com/noahvisualsx)）的 AIGC 创作 skil
 | [video-replicate-prompts](skills/video-replicate-prompts/SKILL.md) | 短视频拆解复刻：抽帧分析，输出首帧图、图生视频时间线和负面词 |
 | [omni](skills/omni/SKILL.md) | Google Gemini Omni 视频提示词：参考图锁角色、分秒节拍、对话式修改 |
 | [x-carousel-split](skills/x-carousel-split/SKILL.md) | X 横滑拼图（三联屏）：竖切长条、白缝预览、构图和比例建议 |
+| [fabric-texture-prompt-cn](skills/fabric-texture-prompt-cn/SKILL.md) | 提升衣服质感：质感五层拆解、换衣服保留质感、按 Seedream / ChatGPT / Nano Banana / Midjourney 改写 |
+| [lofi-snapshot-prompt-cn](skills/lofi-snapshot-prompt-cn/SKILL.md) | 豆包 / Seedream 风格的古早 CCD 随手拍真人写真提示词，含图生视频动作提示词 |
+| [video-outfit-prompt-cn](skills/video-outfit-prompt-cn/SKILL.md) | 拆解穿搭视频或照片里的整套穿搭，写成生图提示词，让原创角色穿上同款 |
+| [doubao-prompt-harvest](skills/doubao-prompt-harvest/SKILL.md) | 用 Mac 的 iPhone 镜像操控手机豆包，批量整理「AI 创作 · 发现」作品的做同款提示词 |
 | [selfie-pushin-music-video](skills/selfie-pushin-music-video/SKILL.md) | 手持前置自拍、怼脸跳切、踩点音乐的竖屏短视频 |
 
 ## 其他 skill
